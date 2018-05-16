@@ -1,0 +1,22 @@
+{
+  "name": "mobile-console",
+  "version": "0.0.1",
+  "description": "mobile-console",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-mu/mobile-console.git"
+  },
+  "author": {
+    "name":"mr.mu",
+    "email":"307765507@qq.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-mu/mobile-console/issues"
+  },
+  "homepage": "https://github.com/mr-mu/mobile-console#readme"
+}
