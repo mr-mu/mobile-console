@@ -4,11 +4,11 @@
 
 # API
 
-<html class="test"> // 进入调试模式
+html class="test" // 进入调试模式
 
 mconsole.log(string)
 
-#License
+# License
 
 MIT
 
